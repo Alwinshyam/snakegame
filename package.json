@@ -1,0 +1,11 @@
+{
+  "name": "snack-game",
+  "version": "1.0.0",
+  "description": "snack game using HTML and CSS JavaScript and Node Js",
+  "main": "snackgame.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sam",
+  "license": "ISC"
+}
